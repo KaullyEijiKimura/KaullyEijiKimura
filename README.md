@@ -1,6 +1,8 @@
 # Kaully Eiji
 **'Analista de dados'**
 
-Me chamo Kaully Eiji, tenho 20 anos e sou natural de São Paulo.
-Conclui o ensino médio e estou cursando ciência da computação na faculdade Anhanguera.
-Meu atual foco é em Data analytics e Data science
+Olá!
+Meu nome é Kaully, sou estudante da faculdade Anhanguera e estou cursando Ciência da computação. dentre os diversos caminhos no mercado decidi focar meus estudos na área de dados.
+Meu foco esta em Exel, Python Power BI  e SQL
+Meu nível de inglês é avançado, consigo ler, escrever e falar normalmente neste idioma
+Estou buscando por um estágio no qual me permita começar minha carreira
